@@ -24,7 +24,7 @@ El dataset se carga directamente desde la URL oficial del repositorio original d
 ```bash
 python -m venv venv
 venv\Scripts\activate        # Windows
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn jupyter matplotlib seaborn
 jupyter notebook
 ```
 
