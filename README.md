@@ -6,6 +6,19 @@ Proyecto de predicción de intención de compra en e-commerce usando el dataset 
 
 El archivo `data/online_shoppers_intention.csv` proviene del repositorio original de sharmaroshan/Online-Shoppers-Purchasing-Intention.
 
+## Requisitos
+
+- Python 3
+- pandas
+- scikit-learn
+- Jupyter Notebook
+
+## Integrantes
+
+- Guillermo Andres Minero Alfaro
+- Gabriela Isabel Castillo Mena
+- Ruben Armando Vigil Mejia
+
 ## Configuración
 
 ```bash
@@ -18,3 +31,4 @@ jupyter notebook
 ## Notebook
 
 Abrir `notebooks/01_preparacion_datos.ipynb` para la carga, limpieza y división train/test (80/20).
+
